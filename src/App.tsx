@@ -1,7 +1,6 @@
 import type { QuizData } from "react-quiz-maker";
 import MyCustomQuiz from "./MyCustomQuiz";
 import scoredQuizData from "./scoredQuiz.json";
-// import "./quiz.css";
 
 const config = {
 	autoResume: true,
