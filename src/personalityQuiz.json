@@ -1,0 +1,52 @@
+{
+	"quizTitle": "Discover Your Ice Cream Personality!",
+	"quizSynopsis": "This fun and lighthearted quiz explores your ice cream preferences to reveal your dessert-related personality type. Learn how your approach to this beloved treat reflects your broader personality traits and attitudes towards life's experiences. Whether you're a creature of habit, an open-minded explorer, or a creative risk-taker, this quiz will scoop out the sweet truth about your ice cream personality!",
+	"type": "personality",
+	"questions": [
+		{
+			"question": "When you go to an ice cream shop, what's your go-to?",
+			"questionType": "text",
+			"questionImage": "https://dummyimage.com/600x400/000/fff&text=X",
+			"answerSelectionType": "single",
+			"answers": [
+				{ "answer": "I always get my favorite flavor", "result": "The Classic Connoisseur" },
+				{ "answer": "I try something new each time", "result": "The Curious Taster" },
+				{ "answer": "I  create a wild combination of flavors", "result": "The Adventurous Innovator" }
+			],
+			"explanation": "An explanation probably doesn't make sense for a personality quiz, but since you've enabled it, you get this message."
+		},
+		{
+			"question": "How do you prefer to eat your ice cream?",
+			"questionType": "text",
+			"answerSelectionType": "single",
+			"answers": [
+				{ "answer": "In a classic waffle cone", "result": "The Classic Connoisseur" },
+				{ "answer": "In a cup with a spoon", "result": "The Curious Taster" },
+				{ "answer": "As part of an elaborate sundae or milkshake", "result": "The Adventurous Innovator" }
+			],
+			"explanation": "An explanation probably doesn't make sense for a personality quiz, but since you've enabled it, you get this message."
+		},
+		{
+			"question": "What's your ideal ice cream eating scenario?",
+			"questionType": "text",
+			"answerSelectionType": "multiple",
+			"answers": [
+				{ "answer": "Enjoying a scoop while taking a relaxing walk", "result": "The Classic Connoisseur" },
+				{ "answer": "Sharing it with friends during a movie night", "result": "The Curious Taster" },
+				{ "answer": "Visiting multiple ice cream shops in one day", "result": "The Adventurous Innovator" }
+			],
+			"explanation": "An explanation probably doesn't make sense for a personality quiz, but since you've enabled it, you get this message."
+		}
+	],
+	"results": {
+		"The Classic Connoisseur": {
+			"description": "You're a traditionalist who knows what you like and sticks to it. You appreciate the simple pleasures in life and find comfort in familiar flavors. Your loyalty and consistency make you a reliable friend and a creature of habit."
+		},
+		"The Curious Taster": {
+			"description": "You're always eager to try new things and expand your palate. Your open-mindedness and adaptability make you an excellent companion for culinary adventures. You enjoy sharing experiences with others and are often the one introducing friends to new flavors."
+		},
+		"The Adventurous Innovator": {
+			"description": "You see ice cream as a canvas for creativity and love pushing the boundaries of flavor combinations. Your enthusiasm for unique experiences is contagious, and you're always up for a food-related challenge. You're the life of the party and often surprise others with your bold choices."
+		}
+	}
+}

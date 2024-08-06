@@ -1,0 +1,64 @@
+{
+	"quizTitle": "Welcome to the Trivia Challenge!",
+	"quizSynopsis": "This short quiz offers a diverse blend of questions spanning music history, British monarchy, and Greek mythology. Test your knowledge about an iconic rock band, challenge yourself with an intriguing fact about British currency, and dive into the realm of ancient Greek gods. This quick trivia adventure will engage your mind across different fields of general knowledge.",
+	"type": "scored",
+	"questions": [
+		{
+			"question": "Who was the guitarist in the band The Doors?",
+			"questionType": "text",
+			"questionImage": "https://dummyimage.com/600x400/000/fff&text=X",
+			"answerSelectionType": "single",
+			"answers": [
+				{ "answer": "Robby Krieger", "result": "1" },
+				{ "answer": "Eric Clapton", "result": "0" },
+				{ "answer": "John Densmore", "result": "0" },
+				{ "answer": "Jimi Hendrix", "result": "0" }
+			],
+			"messageForCorrectAnswer": "Correct. Good job!",
+			"messageForIncorrectAnswer": "Incorrect",
+			"explanation": "The original lineup of The Doors consisted of Jim Morrison (vocals), Ray Manzarek (keyboards), John Densmore (drums), and Robby Krieger (guitar). Robby Krieger joined the band shortly after its formation and became an essential part of their distinctive sound, blending rock, blues, and psychedelia."
+		},
+		{
+			"question": "Which of the following British Monarchs never appeared on a circulated pound sterling coin?",
+			"questionType": "text",
+			"answerSelectionType": "single",
+			"answers": [
+				{ "answer": "Edward VIII", "result": "1" },
+				{ "answer": "Victoria", "result": "0" },
+				{ "answer": "Charles II", "result": "0" },
+				{ "answer": "George VI", "result": "0" }
+			],
+			"messageForCorrectAnswer": "Correct. Good job!",
+			"messageForIncorrectAnswer": "Incorrect",
+			"explanation": "Edward VIII's reign was short, from January 20 to December 11, 1936, due to his abdication. Although patterns and designs were created, no coins featuring his likeness were officially issued for circulation during his reign. In contrast, Victoria, Charles II, and George VI all had coins with their portraits circulated during their respective reigns."
+		},
+		{
+			"question": "In Greek mythology, who is the god of wine?",
+			"questionType": "text",
+			"answerSelectionType": "single",
+			"answers": [
+				{ "answer": "Dionysus", "result": "1" },
+				{ "answer": "Hephaestus", "result": "0" },
+				{ "answer": "Demeter", "result": "0" },
+				{ "answer": "Apollo", "result": "0" }
+			],
+			"messageForCorrectAnswer": "Correct. Good job!",
+			"messageForIncorrectAnswer": "Incorrect",
+			"explanation": "Dionysus is one of the Olympian gods and is associated with the vine, grape harvest, winemaking, and wine. He is also connected with fertility, ritual madness, religious ecstasy, and theatre. His Roman counterpart is Bacchus. Dionysus is often depicted as a youthful, effeminate figure with grapevines and ivy leaves, and he frequently holds a thyrsus, a staff entwined with ivy and topped with a pine cone."
+		}
+	],
+	"results": {
+		"0": {
+			"description": "You scored 0 points. Better luck next time."
+		},
+		"1": {
+			"description": "You scored 1 point. Good job."
+		},
+		"2": {
+			"description": "You scored 2 points. Great job."
+		},
+		"3": {
+			"description": "You scored 3 points. Excellent job."
+		}
+	}
+}
